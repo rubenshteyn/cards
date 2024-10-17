@@ -1,3 +1,6 @@
-# Cards
+# Virtual Cards
 
-A virtual card issuance service oriented both to mass work (in arbitration, for example) and to those who need foreign cards.
+Сервис выдачи виртуальных карт, ориентированный как на массовую работу (например, в арбитраже), так и на тех, кому нужны иностранные карты. 
+
+Frontend: Vue3, i18n, Bootstrap
+Backend: Go, Postgres
